@@ -7,7 +7,7 @@
 # Installation (windows)
 - First Install the driver for RTL8720D
 
-- Download the [firmware](https://raw.githubusercontent.com/xiv3r/RTL8720DN-Deauther/refs/heads/main/RT8720DN_BW16_Deauther_v1.0.3.bin) and the [flasher](https://raw.githubusercontent.com/xiv3r/RT8720DN-Deauther/refs/heads/main/RTL8720DN_Flasher_v1.0.0.exe)
+- Download the [firmware](https://raw.githubusercontent.com/xiv3r/Deauther-RTL8720DN/refs/heads/main/RT8720DN_BW16_Deauther_v1.0.3.bin) and the [flasher](https://raw.githubusercontent.com/xiv3r/Deauther-RT8720DN/refs/heads/main/RTL8720DN_Flasher_v1.0.0.exe)
 
 - Open the Flasher and import the firmware then flash
 
