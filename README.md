@@ -1,5 +1,5 @@
-# RT8720DN-Deauther
-Deauther firmware for RT8720DN BW16 MCU
+# RTL8720DN-Deauther
+Deauther firmware for RTL8720DN BW16 MCU
 <img src="https://github.com/xiv3r/RT8720DN-Deauther/blob/main/rt7820dn.png">
 
 # Installation (windows)
