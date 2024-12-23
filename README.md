@@ -2,7 +2,7 @@
 Deauther firmware for RT8720DN BW16 MCU
 
 # Installation 
-- Download the firmware and the flasher above
+- Download the [firmware](https://codeload.github.com/xiv3r/RT8720DN-Deauther/zip/refs/heads/main) and the [flasher](https://codeload.github.com/xiv3r/RT8720DN-Deauther/zip/refs/heads/main)
 - Open the Flasher and import the firmware
 - Connect to wifi SSID `Ereshkigal`
 - Password is `masukangin`
