@@ -7,11 +7,11 @@
 # Installation (windows)
 - First Install the driver for RTL8720D
 
-- Download the [Firmware](https://raw.githubusercontent.com/xiv3r/Deauther-RTL8720DN/refs/heads/main/RTL8720DN_BW16_Deauther_v1.0.3.bin) and the [Flasher](https://raw.githubusercontent.com/xiv3r/Deauther-RTL8720DN/refs/heads/main/RTL8720DN_Flasher_v1.0.0.exe)
+- [Download](https://github.com/xiv3r/Deauther-RTL8720DN/releases/download/RTL8720DN/RTL8720DN-Deauther.zip) the Firmware and the Flasher
 
 - Open the flasher and import the firmware then flash
 
-- Connect to WiFi=`Ereshkigal` Password=`masukangin`
+- Connect to the WiFi=`Ereshkigal` Password=`masukangin`
 
 - Open the browser [http://192.168.1.1](http://192.168.1.1)
 
