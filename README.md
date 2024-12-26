@@ -5,7 +5,7 @@
 <img src="https://github.com/xiv3r/RT8720DN-Deauther/blob/main/rtl7820dn.png">
 
 # Installation (windows)
-- First Install the driver for RTL8720DN
+- First [Download](https://github.com/xiv3r/Deauther-RTL8720DN/raw/refs/heads/main/CH341SER.EXE) and Install the CH340G driver for RTL8720DN
 
 - [Download](https://github.com/xiv3r/Deauther-RTL8720DN/releases/download/RTL8720DN/RTL8720DN-Deauther.zip) and unzip the Firmware and Flasher
 
