@@ -4,7 +4,7 @@
 
 <img src="https://github.com/xiv3r/RT8720DN-Deauther/blob/main/rtl7820dn.png">
 
-# Installation (windows)
+# Windows installation
 - First [Download](https://github.com/xiv3r/Deauther-RTL8720DN/raw/refs/heads/main/CH341SER.EXE) and Install the CH340G driver for RTL8720DN
 
 - [Download](https://github.com/xiv3r/Deauther-RTL8720DN/releases/download/RTL8720DN/RTL8720DN-Deauther.zip) and unzip the Firmware and Flasher
@@ -17,7 +17,7 @@
 
 - Then you can start the attack
 
-# Linux
+# Linux Installation
 ```
 sudo apt update && sudo apt install esptool -y
 ```
