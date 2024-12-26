@@ -8,8 +8,8 @@ In fact the ch341 serial driver has been built-in since the Linux mainline kerne
 1. Open "Terminal"
 2. Switch to "driver" directory
 3. Compile the driver using `make`, you will see the module "ch341.ko" if successful
-4. Type `sudo make uload` or `sudo rmmod ch341.ko` to load the driver dynamically
-5. Type `sudo make load` or `sudo insmod ch341.ko` to unload the driver
+4. Type `sudo make unload` or `sudo rmmod ch341.ko` to unload the existing driver dynamically
+5. Type `sudo make load` or `sudo insmod ch341.ko` to load the new driver
 6. Type `sudo make install` to make the driver work permanently
 
 Before the driver works, you should make sure that the usb device has been plugged in and is working properly, you can use shell command "lsusb" or "dmesg" to confirm that, USB VID of these devices are [1a86], you can view all IDs from the id table which defined in "ch341.c".
