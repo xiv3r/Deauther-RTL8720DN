@@ -17,6 +17,39 @@
 
 - Then you can start the attack
 
+# Linux
+```
+sudo apt update && sudo apt install esptool -y
+```
+```
+git clone https://github.com/xiv3r/Deauther-RTL8720DN
+cd Deauther-RTL8720DN
+```
+- Install the ch340g driver
+```
+cd Linux_Driv3r
+```
+```
+make
+```
+```
+sudo make load
+```
+```
+sudo make install
+```
+- Flash the firmware
+```
+cd Deauther-RTL8720DN
+```
+```
+esptool -b 115200 0x0 RTL8720DN.bin
+```
+- Connect to the WiFi=`Ereshkigal` Password=`masukangin`
+
+- Open the browser [http://192.168.1.1](http://192.168.1.1)
+
+- Then you can start the attack
 
 
 Credit: [Ereshkigal](https://github.com/Arifmaulanaazis/Ereshkigal)
