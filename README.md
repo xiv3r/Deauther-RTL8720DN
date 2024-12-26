@@ -43,7 +43,7 @@ sudo make install
 cd Deauther-RTL8720DN
 ```
 ```
-esptool -b 115200 0x0 RTL8720DN.bin
+esptool -b 115200 --before default_reset --after hard_reset --chip esp32 write_flash --flash_mode dio --flash_freq 20m --flash_size detect 0x0 RTL8720DN.bin
 ```
 - Connect to the WiFi=`Ereshkigal` Password=`masukangin`
 
