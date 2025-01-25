@@ -1,5 +1,4 @@
-# Deauther Firmware for RTL8720DN
-2Ghz/5Ghz wifi Deauther firmware for RTL8720DN BW16 MCU
+# Deauther Firmware for RTL8720DN BW16
 
 <img src="https://github.com/xiv3r/RT8720DN-Deauther/blob/main/rtl7820dn.png">
 
