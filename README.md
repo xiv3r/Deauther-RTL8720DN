@@ -5,7 +5,7 @@
 # Windows installation
 - First [Download](https://github.com/xiv3r/Deauther-RTL8720DN/raw/refs/heads/main/CH341SER.EXE) and Install the CH340G driver for RTL8720DN
 
-- [Download](https://github.com/xiv3r/Deauther-RTL8720DN/releases/download/RTL8720DN/RTL8720DN-Deauther.zip) and unzip the Firmware and Flasher
+- [Download](https://github.com/xiv3r/Deauther-RTL8720DN/releases/download/RTL8720DN/RTL8720DN_Deauther.zip) and unzip the Firmware and Flasher
 
 - Open the flasher and import the firmware and then flash
 
