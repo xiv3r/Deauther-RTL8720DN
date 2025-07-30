@@ -5,7 +5,7 @@
 # Windows installation
 - First [Download](https://github.com/xiv3r/Deauther-RTL8720DN/raw/refs/heads/main/CH341SER.EXE) and Install the CH340G driver for RTL8720DN
 
-- [Download](https://github.com/xiv3r/Deauther-RTL8720DN/releases/download/RTL8720DN/RTL8720DN_Deauther.zip) and unzip the Firmware and Flasher
+- [Download](https://github.com/xiv3r/Deauther-RTL8720DN/releases/download/RTL8720DN/RTL8720DN.zip) and unzip the Firmware and Flasher
 
 - Open the flasher and import the firmware and then flash
 
@@ -13,7 +13,6 @@
 
 - Open the browser [http://192.168.1.1](http://192.168.1.1)
 
-- Then you can start the attack
-
+- Then you can start the attack.
 
 Credit: [Ereshkigal](https://github.com/Arifmaulanaazis/Ereshkigal)
